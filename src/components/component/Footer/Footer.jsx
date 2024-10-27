@@ -38,7 +38,7 @@ const Footer = () => {
          </div>
          <hr className="border-gray-800" />
 			<p className="text-gray-500 text-center py-6">
-				Copyright © {new Date().getFullYear()} - All right reserve by{' '}
+				Copyright © {new Date().getFullYear()} - All right reserved by{' '}
 				<span className="font-bold text-lime-400">afrin sultana kona</span>
 			</p>
 
