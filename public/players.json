@@ -1,0 +1,65 @@
+{
+  "players": [
+    {
+      "playerId": "P002",
+      "name": " Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "87001"
+    },
+    {
+      "playerId": "P002",
+      "name": "Kane ",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpgr",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off break",
+      "biddingPrice": "100001"
+    },
+    {
+      "playerId": "P004",
+      "name": "Jasprit ",
+      "country": "India",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "150010"
+    },
+    {
+      "playerId": "P007",
+      "name": " Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": "150001"
+    },
+    {
+      "playerId": "P005",
+      "name": "Rashid ",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpg",
+      "role": "Bastsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg spin",
+      "biddingPrice": "140001"
+    },
+    {
+      "playerId": "P005",
+      "name": "maro",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/djmNS1Y/virat.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "123001"
+    }
+  ]
+}
+
