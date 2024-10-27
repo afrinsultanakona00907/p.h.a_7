@@ -23,7 +23,7 @@ const Footer = () => {
             </div>
             <div>
                 <h3 className='text-white font-semibold text-lg'>Subscribe</h3>
-                <p className=' text-white opacity-[50%] text-base'>Subscribe to our newsletter for the <br /> latest updates.</p>
+                <p className=' text-white opacity-[50%] text-base'>Subscribe to our newsletters for the <br /> latest updates.</p>
                 <form className="flex justify-center items-center gap-4 mt-3">
                     <input
                         type="email"
